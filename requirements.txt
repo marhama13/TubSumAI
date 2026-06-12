@@ -1,4 +1,5 @@
 streamlit
+ollama
 youtube-transcript-api
 transformers
 torch
